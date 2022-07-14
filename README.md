@@ -1,2 +1,2 @@
 # Linear Regression
-This repository contains Linear Regression model from scratch.
+This repository contains the code of the linear regression model from scratch.
