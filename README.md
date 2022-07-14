@@ -1,2 +1,2 @@
-# MyProjects
-This repository contains my data science projects.
+# LinearRegression_fromscratch
+This repository contains Linear Regression model from scratch.
