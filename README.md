@@ -1,2 +1,2 @@
-# LinearRegression_fromscratch
+# LinearRegression
 This repository contains Linear Regression model from scratch.
